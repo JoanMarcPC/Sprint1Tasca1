@@ -17,7 +17,8 @@ public class Tasca1n1 {
 		// s'ha executat ja) i executa bloc static Subclasse Corda
 
 		Corda violi = new Corda("violi", 500);
-		// executa bloc static i inicialització Instrument i executa bloc static Subclasse Corda
+		// executa bloc static i inicialització Instrument i executa bloc static
+		// Subclasse Corda
 		// (si no s'han executat ja) + bloc inicialització Superclasse Instrument +
 		// Constructor Instrument + bloc inicialització Corda + Constructor Corda
 
